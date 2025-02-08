@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Freelance projects on DevOps and Cloud(Any)**
 
-- 👨‍💻 All of my projects are available at [https://salwadbashashaik.cloud/](https://salwadbashashaik.cloud/)
+- 👨‍💻 All of my projects are available at [https://salwadthedevopsengineer.cloud/](https://salwadthedevopsengineer.cloud/)
 
 - 💬 Ask me about **Any DevOps related tools like Docker, Kubernetes, Terraform and Cloud services**
 
