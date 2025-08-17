@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **DevOps and Cloud projects**
 
-- 🌱 I’m currently learning **Crossplane, Istio, AI/MLOps, Mojo ( Superset of Python ), Java script, OpenAI API, eBPF ( The underlying technology that powers Cillium )**
+- 🌱 I’m currently learning **Agentic AI, Prompting engineering, Crossplane, Istio, AI/MLOps, Mojo ( Superset of Python ), Java script, OpenAI API, eBPF ( The underlying technology that powers Cillium )**
 
 - 👯 I’m looking to collaborate on **Freelance projects on DevOps and Cloud(Any)**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **salvathshaik786143@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/salwad-resume)
+- 📄 Know about my experiences [http://bit.ly/salwad-resume-link)
 
 - ⚡ Fun fact **During a particularly challenging project, I discovered that by fine-tuning our deployment pipeline and streamlining our workflow, we could achieve deployment speeds akin to superhero quick-changes! Our team went from waiting weeks for updates to launching them in a flash, earning us the title of 'DevOps Avengers' among our colleagues!**
 
