@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Agentic AI, Prompting engineering, Crossplane, Istio, AI/MLOps, Mojo ( Superset of Python ), Java script, OpenAI API, eBPF ( The underlying technology that powers Cillium )**
 
-- 👯 I’m looking to collaborate on **Freelance projects on DevOps and Cloud(Any)**
+- 👯 I’m looking to collaborate on **projects on DevOps and Cloud(Any)**
 
 - 👨‍💻 All of my projects are available at [https://salwadthedevopsengineer.cloud/](https://salwadthedevopsengineer.cloud/)
 
