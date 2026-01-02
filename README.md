@@ -1,4 +1,9 @@
-[![MasterHead](https://github.com/user-attachments/assets/c2816c64-25e9-44d6-bd6c-5a3a635d5ff8)](https://salwadbashashaik.cloud/)
+<a href="https://salwadbashashaik.cloud/">
+  <img src="https://github.com/user-attachments/assets/c2816c64-25e9-44d6-bd6c-5a3a635d5ff8"
+       alt="MasterHead"
+       width="1280"
+       height="640" />
+</a>
 <h1 align="center">Hi 👋, I'm Salwad basha Shaik</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
