@@ -1,8 +1,8 @@
 <a href="https://salwadbashashaik.cloud/">
   <img src="https://github.com/user-attachments/assets/c2816c64-25e9-44d6-bd6c-5a3a635d5ff8"
        alt="MasterHead"
-       width="980"
-       height="640" />
+       width="880"
+       height="540" />
 </a>
 <h1 align="center">Hi 👋, I'm Salwad basha Shaik</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
