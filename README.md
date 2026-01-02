@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/salwad-basha-shaik/salwad-basha-shaik/assets/39498166/ef8d812e-3c06-4747-b8db-d4681e3e6fdd)](https://salwadbashashaik.cloud/)
+[![MasterHead](https://github.com/user-attachments/assets/c2816c64-25e9-44d6-bd6c-5a3a635d5ff8)](https://salwadbashashaik.cloud/)
 <h1 align="center">Hi 👋, I'm Salwad basha Shaik</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
